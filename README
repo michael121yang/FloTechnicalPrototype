@@ -1,0 +1,18 @@
+The pre-built games are under the main folder There are three:
+    - flickprototype.exe tests flicking
+    - slingshotprototype.exe tests pulling back and releasing
+    - techprototype.exe tests holding down and charging.
+
+To build in Unity, open any of the scenes in Assets/Scenes
+
+~
+
+There are four levels, each with a goal door to unlock 
+	1st level: red door at the top right
+	2nd level: blue door at bottom left
+	3rd level: grey door at top center
+	4th level: blue door at bottom left
+
+For the first three levels, the goal is to reach the end within 30 moves (total). You cna retry a level as many times as necessary.
+
+The last level is a test of puzzle/timing mechanics.
